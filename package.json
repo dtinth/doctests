@@ -10,5 +10,14 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^2.2.5"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtinth/doctests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dtinth/doctests/issues"
+  },
+  "homepage": "https://github.com/dtinth/doctests"
 }
