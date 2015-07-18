@@ -1,6 +1,6 @@
 {
   "name": "doctests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Doctests for Mocha on Node.js",
   "main": "index.js",
   "scripts": {
